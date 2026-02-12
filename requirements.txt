@@ -1,0 +1,8 @@
+# Install lmms-eval from the local submodule (editable)
+-e ./lmms-eval[all]
+
+# PhysBench evaluation dependencies
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+huggingface_hub>=0.20.0
